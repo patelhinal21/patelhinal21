@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelhinal21" alt="patelhinal21" /></a> </p>
 
-- 🔭 I’m currently working on [HealthcareDataHub](https://github.com/patelhinal21/HealthcareDataHub)
+- 🔭 I’m currently working as Software Engineer at Contentsquare
 
-- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelhinal21/](https://github.com/patelhinal21/)
 
 - 💬 Ask me about **MVC, REST API, Node.js, React**
 
-- 📫 How to reach me **patel.hina@northeastern.edu**
+- 📫 How to reach me **patel.hinal3011@gmail.com**
 
 - 📄 Know about my experiences [https://patelhinal21.framer.website/](https://patelhinal21.framer.website/)
 
