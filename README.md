@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **patel.hinal3011@gmail.com**
 
-- 📄 Know about my experiences [https://patelhinal21.framer.website/](https://patelhinal21.framer.website/)
+- 📄 Know about my experiences [https://patelhinal21.framer.website/](https://patelhinal24.framer.website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
