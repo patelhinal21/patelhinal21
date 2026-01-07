@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hinal Patel</h1>
 <h3 align="center">Code as my canvas, I paint interactive web experiences!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelhinal21&label=Profile%20views&color=0e75b6&style=flat" alt="patelhinal21" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelhinal21&label=Profile%20views&color=0e75b6&style=flat" alt="patelhinal21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelhinal21" alt="patelhinal21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelhinal21" alt="patelhinal21" /></a> </p>--->
 
 - 🔭 I’m currently working as Software Engineer at Contentsquare
 
