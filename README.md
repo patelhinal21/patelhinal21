@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer at ContentSquare.<br>Scalable web applications, observability, and cloud-native systems.<br>Debugging, root-cause analysis, and complex problem solving.<br>Distributed systems, cloud-native architectures, and agentic AI.<br>Front-end systems, cloud-native architecture, or debugging hard production issues.<br>I enjoy turning messy, hard-to-debug problems into clean, understandable solutions.
+🔭 I’m currently working as Software engineer at ContentSquare.<br>👯 I’m looking to collaborate on Scalable web applications, observability, and cloud-native systems.<br>🤝 I’m looking for help with Tracing production bugs, performing root-cause analysis, and solving high-impact engineering problems.<br>🌱 I’m currently learning  Distributed systems and agentic AI.<br>💬 Ask me about Front-end systems, cloud-native architecture, or debugging hard production issues<br>⚡ Fun fact I enjoy turning messy, hard-to-debug problems into clean, understandable solutions.
 
 
 ## 🌐 Socials:
